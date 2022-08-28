@@ -51,7 +51,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>icons8-calculator-96.ico</ApplicationIcon>
+    <ApplicationIcon>icons-calculator.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>C22EF48A32E43473209E1B54CB6EE60B4605D7CB</ManifestCertificateThumbprint>
@@ -127,13 +127,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="dance.gif" />
-  </ItemGroup>
-  <ItemGroup>
     <Folder Include="Image\" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="icons8-calculator-96.ico" />
+    <Resource Include="icons-calculator.ico" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
